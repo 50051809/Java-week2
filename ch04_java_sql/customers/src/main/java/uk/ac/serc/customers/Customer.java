@@ -1,6 +1,6 @@
 package uk.ac.serc.customers;
 
-public class customers {
+public class Customer {
     String customerID;
     String companyName;
     String contactName;
